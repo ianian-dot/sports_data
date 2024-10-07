@@ -3,7 +3,7 @@
 Inspired by Euros - dataset from Kaggle [International Football Data](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
 
 
-1. [Bradley Terry Model for EPL results] (https://rpubs.com/jojorabbit1/1228833)
+1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
 
 ![image](https://github.com/user-attachments/assets/fe7920fb-d957-49c0-bb12-e303168210e4)
 
