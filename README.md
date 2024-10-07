@@ -12,5 +12,5 @@ Inspired by Euros - dataset from Kaggle [International Football Data](https://ww
 ![image](https://github.com/user-attachments/assets/2027d3a3-7085-407d-b1e1-e8f5b2e37799)
 
   
-4. [Dataset of halves](https://www.kaggle.com/code/ianpetrustan/betting-on-halves-international-football-matches)
-5. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
+3. [Dataset of halves](https://www.kaggle.com/code/ianpetrustan/betting-on-halves-international-football-matches)
+4. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
