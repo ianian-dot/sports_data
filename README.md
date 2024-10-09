@@ -1,6 +1,8 @@
 # Analysing/ Visualising/ Modelling Sports Data 
 
-Inspired by Euros - dataset from Kaggle [International Football Data](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
+Data from :
+* football-data.co.uk
+* Inspired by Euros - dataset from [Kaggle][International Football Data](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
 
 
 1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
