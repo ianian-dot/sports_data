@@ -5,7 +5,12 @@ Inspired by Euros - dataset from Kaggle [International Football Data](https://ww
 
 1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
 
+## Using Bradlet Terry Model to get team coefficients: 
 ![image](https://github.com/user-attachments/assets/fe7920fb-d957-49c0-bb12-e303168210e4)
+
+## Using Bayesian Hierarchical Modelling to get team coefficients: 
+![image](https://github.com/user-attachments/assets/ae88793c-29f2-4037-87e6-8a28347d450a)
+
 
 2. [England - simple Markov model representation for game outcomes - visualising transition probabilities](https://www.kaggle.com/code/ianpetrustan/england-win-loss-draw)
 
