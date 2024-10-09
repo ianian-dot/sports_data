@@ -8,7 +8,7 @@ Data from :
 
 1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
 
-## Using Bradlet Terry Model to get team coefficients: 
+## Using Bradley Terry Model to get team coefficients: 
 ![image](https://github.com/user-attachments/assets/fe7920fb-d957-49c0-bb12-e303168210e4)
 
 ## Using Bayesian Hierarchical Modelling to get team coefficients: 
