@@ -4,7 +4,9 @@ Data from :
 * football-data.co.uk
 * Inspired by Euros - dataset from [International Football Data](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
 
-# Projects: BT Model, Markov representation, Time series analysis, Bayesian Modelling
+# Projects: 
+
+BT Model, Markov representation, Time series analysis, Bayesian Modelling
 
 ## 1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
 
