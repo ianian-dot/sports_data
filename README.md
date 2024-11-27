@@ -21,4 +21,5 @@ Data from :
 
   
 ## 3. [Dataset of halves](https://www.kaggle.com/code/ianpetrustan/betting-on-halves-international-football-matches)
-## 4. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
+## 4. [Time series analysis of weekly EPL goals]
+## 5. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
