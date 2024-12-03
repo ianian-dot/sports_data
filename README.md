@@ -6,7 +6,7 @@ Data from :
 
 # Projects: 
 
-BT Model, Markov representation, Time series analysis, Bayesian Modelling
+BT Model, Markov representation, Time series analysis, Bayesian Modelling, Regression Discontinuity Design for Home Advantage
 
 ## 1. [Bradley Terry Model for EPL results](https://rpubs.com/jojorabbit1/1228833)
 
@@ -24,4 +24,6 @@ BT Model, Markov representation, Time series analysis, Bayesian Modelling
   
 ## 3. [Dataset of halves](https://www.kaggle.com/code/ianpetrustan/betting-on-halves-international-football-matches)
 ## 4. [Time series analysis of weekly EPL goals](https://github.com/ianian-dot/sports_data/blob/main/WeeklyGoalsTS.ipynb)
-## 5. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
+## 5. [RDD: Change in home stadium, change in home advantage?](https://rpubs.com/jojorabbit1/1252723)
+![image](https://github.com/ianian-dot/sports_data/blob/main/WestHamRDD.png)
+## 6. [Bayesian Hierarchical Modelling](https://github.com/ianian-dot/sports_data/tree/main/Bayesian%20Inference%20Notebook) - incomplete/needs help
